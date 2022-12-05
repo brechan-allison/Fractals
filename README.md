@@ -1,4 +1,4 @@
 # Fractals
 Generates a fractal using a constant (either randomly generated or user input) 
 
-![alt text](https://github.com/[brechan-allison]/[Fractals]/blob/[main]/sinFractal.bmp?raw=true)
+![alt text](https://github.com/[brechan-allison]/[Fractals]/blob/[main]/sinFractal.jpg?raw=true)
